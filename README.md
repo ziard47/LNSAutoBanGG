@@ -12,6 +12,8 @@ This is an automated moderation Discord bot built with `discord.js`.
 
 - [Node.js](https://nodejs.org/) installed on your machine.
 - A Discord Bot Token from the [Discord Developer Portal](https://discord.com/developers/applications).
+- Check bot and applications.commands.
+- Select Ban Members and Read Message History in the permissions.
 
 ## Installation
 
